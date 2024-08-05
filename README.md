@@ -1,7 +1,10 @@
 <h1 align="center">HELLO WORLD👋, Mein Name ist Akin Kale</h1>
 - 🔭 An welchen Projekten arbeite ich zurzeit ? Ich arbeite gerade an mehreren kleineren Projekten, die ich später zu einem größeren Projekt zusammenführe.
+
 - 👨‍💻 All meine Projekte findet man Hier : [https://github.com/AkinKale1999/Meine-Projekte.git](https://github.com/AkinKale1999/Meine-Projekte.git)
+  
 - 📫 Wie man mich Kontaktieren kann ? **akinkale1234@outlook.de**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/akinkale1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akinkale1999" height="30" width="40" /></a>
