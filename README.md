@@ -5,7 +5,7 @@
 
 - 📫 Wie man mich Kontaktieren kann ? **akinkale1234@outlook.de**
 
-- 📄 Meine Lebenslauf findet man Hier : [Lebenslauf](C:/Users/akink/Downloads/Lebenslauf.pdf)
+- 📄 Meine Lebenslauf findet man Hier : [Lebenslauf](http://Users/akink/Downloads/Lebenslauf.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
