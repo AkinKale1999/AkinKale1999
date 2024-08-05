@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD👋, Mein Name ist Akin Kale</h1>
 
-- An welchen Projekten arbeite ich zurzeit ?
-  Ich arbeite gerade an mehreren kleineren Projekten, die ich später zu einem größeren Projekt zusammenführe.👨‍💻 
+- An welchen Projekten arbeite ich zurzeit ? <br/>
+  Ich arbeite gerade an mehreren kleineren Projekten, die ich später zu einem größeren Projekt zusammenführen werde.👨‍💻 
 
 - All meine Projekte findet man hier : [Meine-Projekte](https://github.com/AkinKale1999/Meine-Projekte.git)
 
