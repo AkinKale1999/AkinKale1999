@@ -7,7 +7,7 @@
   
 - 📫 Wie man mich Kontaktieren kann ? **akinkale1234@outlook.de**
   
-<h3 align="left">Kontaktiert mich auch hier :</h3>
+<h3 align="left">oder hier :</h3>
 <p align="left">
 <a href="https://dev.to/akinkale1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akinkale1999" height="30" width="40" /></a>
 </p>
