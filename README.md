@@ -5,7 +5,7 @@
 
 - All meine Projekte findet man hier : [Meine-Projekte](https://github.com/AkinKale1999?tab=repositories)
 
-- 📫 Wie man mich Kontaktieren kann ? **akinkale1234@outlook.de**
+- 📫 Wie man mich Kontaktieren kann ? **akinkale054@hotmail.com**
   
 <h3 align="left">oder hier :</h3>
 <p align="left">
