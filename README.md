@@ -9,7 +9,7 @@
   
 <h3 align="left">oder hier :</h3>
 <p align="left">
-<a href="https://profile.indeed.com/?hl=de_DE&co=DE&from=gnav-menu-homepage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akinkale1999" height="30" width="40" /></a>
+<a href="https://profile.indeed.com/?hl=de_DE&co=DE&from=gnav-menu-homepage" target="blank"><img align="center" src="https://de.indeed.com/?from=gnav-jobseeker-profile--profile-one-frontend" alt="akinkale1999" height="30" width="40" /></a>
 </p>
 <h3 align="left">Programmiersprachen und Technologien :</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
