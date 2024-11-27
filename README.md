@@ -3,7 +3,7 @@
 - An welchen Projekten arbeite ich zurzeit ? <br/>
   Ich arbeite gerade an mehreren kleineren Projekten, die ich später zu einem größeren Projekt zusammenführen werde.👨‍💻 
 
-- All meine Projekte findet man hier : [Meine-Projekte](https://github.com/AkinKale1999/Meine-Projekte.git)
+- All meine Projekte findet man hier : [Meine-Projekte](https://github.com/AkinKale1999?tab=repositories)
 
 - 📫 Wie man mich Kontaktieren kann ? **akinkale1234@outlook.de**
   
