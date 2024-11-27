@@ -7,12 +7,6 @@
 
 - 📫 Wie man mich Kontaktieren kann ? **akinkale054@hotmail.com**
   
-<h3 align="left">oder hier :</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dein-linkedin-profil/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Programmiersprachen und Technologien :</h3>
 <p align="left"> 
